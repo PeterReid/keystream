@@ -9,6 +9,8 @@
 //! depend on keystreams be generic over which particular keystream
 //! they use.
 
+#![no_std]
+
 /// An error when generating a keystream
 #[derive(Debug, Copy, Clone, Eq, PartialEq)]
 pub enum Error {
