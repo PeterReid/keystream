@@ -2,3 +2,9 @@
 name = "keystream"
 version = "1.0.0"
 authors = ["Peter Reid <peter.d.reid@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+description = "Cryptographic keystream traits"
+repository = "https://github.com/PeterReid/keystream"
+documentation = "http://peterreid.github.io/keystream"
+keywords = ["keystream"]
